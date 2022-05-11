@@ -19,6 +19,9 @@ In order to use the plugin, you need to:
 4. build the project inside the IDE
 5. use the plugin in a music software
 
+Alternatively, for MacOS users just download the .zip file containing the image file. 
+Once opened, drag and drop the plugin in the Components directory and start to use it in your favorite DAW.
+
 # Interface:
 
 ![GUI](https://github.com/polimi-cmls-22/group13-hw-JUCE-FourierSerious/blob/main/GUI.jpg?raw=true)
