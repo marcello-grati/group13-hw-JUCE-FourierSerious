@@ -16,3 +16,4 @@ This is an implementation of a synthesiser based on subtractive synthesis. This 
 
 # Interface:
 
+![GUI](https://github.com/polimi-cmls-22/group13-hw-JUCE-FourierSerious/blob/main/GUI.jpg?raw=true)
