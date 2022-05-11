@@ -17,7 +17,7 @@ In order to use the plugin, you need to:
 2. open the file "SubSynth.jucer" in Projucer
 3. open it with an IDE (for example Xcode, Visual Studio..)
 4. build the project inside the IDE
-5. use the plugin
+5. use the plugin in a music software
 
 # Interface:
 
